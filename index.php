@@ -58,7 +58,7 @@
                         <a href="#about" class="main-button-slider">Find Out More</a>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
-                        <img src="assets/images/home-image.png" class="rounded img-fluid d-block mx-auto" alt="First Vector Graphic">
+                        <img src="assets/images/home-image.png" class="rounded img-fluid d-block mx-auto" alt="First Vector Graphic" width = "500" height="500">
                     </div>
                 </div>
             </div>
@@ -68,7 +68,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-7 col-md-12 col-sm-12" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
-                    <img src="assets/images/about-image2.png" class="rounded img-fluid d-block mx-auto" alt="App">
+                    <img src="assets/images/about-image2.png" class="rounded img-fluid d-block mx-auto" alt="App" width = "600" height="600">
                 </div>
                 <div class="right-text col-lg-5 col-md-12 col-sm-12 mobile-top-fix">
                     <div class="left-heading">
@@ -218,7 +218,7 @@
                     </ul>
                 </div>
                 <div class="right-image col-lg-7 col-md-12 col-sm-12 mobile-bottom-fix-big" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
-                    <img src="assets/images/right-image.png" class="rounded img-fluid d-block mx-auto" alt="App">
+                    <img src="assets/images/right-image.png" class="rounded img-fluid d-block mx-auto" alt="App" width = "700" height="700">
                 </div>
             </div>
         </div>
@@ -229,25 +229,25 @@
 			<h1 class="item-text-heading">Our Projects</h1>
                 <div class="owl-carousel owl-theme">
                     <div class="item project-item">
-                            <i><img src="assets/project-images/project12.PNG" alt=""></i>
+                            <i><img src="assets/project-images/project12.PNG" alt="" width = "500" height="500"></i>
                         <h5 class="project-title">Company Profile</h5>
                         <p>Here our Company profile website build without modern javascript framework like Vue.js or React.js, but we deliver the best web surfing experience </p>
                         <a href="/" class="main-button">Discover More</a>
                     </div>
                     <div class="item project-item">
-                            <i><img src="assets/project-images/project12.PNG" alt=""></i>
+                            <i><img src="assets/project-images/project12.PNG" alt="" width = "500" height="500"></i>
                         <h5 class="project-title">Company Profile</h5>
                         <p>Here our Company profile website build without modern javascript framework like Vue.js or React.js, but we deliver the best web surfing experience </p>
                         <a href="/" class="main-button">Discover More</a>
                     </div>
                     <div class="item project-item">
-                            <i><img src="assets/project-images/project12.PNG" alt=""></i>
+                            <i><img src="assets/project-images/project12.PNG" alt="" width = "500" height="500"></i>
                         <h5 class="project-title">Company Profile</h5>
                         <p>Here our Company profile website build without modern javascript framework like Vue.js or React.js, but we deliver the best web surfing experience </p>
                         <a href="/" class="main-button">Discover More</a>
                     </div>
                     <div class="item project-item">
-                            <i><img src="assets/project-images/project12.PNG" alt=""></i>
+                            <i><img src="assets/project-images/project12.PNG" alt="" width = "500" height="500"></i>
                         <h5 class="project-title">Company Profile</h5>
                         <p>Here our Company profile website build without modern javascript framework like Vue.js or React.js, but we deliver the best web surfing experience </p>
                         <a href="/" class="main-button">Discover More</a>
@@ -339,7 +339,7 @@
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-12" data-scroll-reveal="enter left move 50px over 0.6s after 0.4s">
                     <div class="image-contact">
-                         <img src="assets/images/contact-image.png" class="rounded img-fluid d-block mx-auto" alt="Contact">
+                         <img src="assets/images/contact-image.png" class="rounded img-fluid d-block mx-auto" alt="Contact" width = "600" height="600">
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12">
@@ -384,9 +384,9 @@
                 </div>
                 <div class="col-lg-5 col-md-12 col-sm-12">
                     <ul class="social">
-                        <li><a href="https://instagram.com" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                        <li><a href="https://linkedin.com" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="https://facebook.com" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="https://instagram.com" target="_blank" rel="noopener"><i class="fa fa-instagram"></i></a></li>
+                        <li><a href="https://linkedin.com" target="_blank" rel="noopener"><i class="fa fa-linkedin"></i></a></li>
+                        <li><a href="https://facebook.com" target="_blank" rel="noopener"><i class="fa fa-facebook"></i></a></li>
    
                     </ul>
                 </div>
