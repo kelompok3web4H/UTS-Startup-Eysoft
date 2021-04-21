@@ -55,7 +55,7 @@
                     <div class="left-text col-lg-6 col-md-6 col-sm-12 col-xs-12" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
                         <h1>Listening to you, and answering with<strong> Software Application</strong></h1>
                         <p>"We try best, and we make sure we deliver best"</p>
-                        <a href="#about" class="main-button-slider">Find Out More</a>
+                        <a href="#about" class="main-button-slider" >Find Out More</a>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
                         <img src="assets/images/home-image.png" class="rounded img-fluid d-block mx-auto" alt="First Vector Graphic" width = "500" height="500">
@@ -380,13 +380,13 @@
                 <div class="col-lg-7 col-md-12 col-sm-12">
                     <p class="copyright">Copyright &copy; 2077
                 
-                . Easy Software; <a rel="nofollow" href=""></a></p>
+                . Easy Software; <a rel="nofollow" href="/" aria-label="Eysoft"></a></p>
                 </div>
                 <div class="col-lg-5 col-md-12 col-sm-12">
                     <ul class="social">
-                        <li><a href="https://instagram.com" target="_blank" rel="noopener"><i class="fa fa-instagram"></i></a></li>
-                        <li><a href="https://linkedin.com" target="_blank" rel="noopener"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="https://facebook.com" target="_blank" rel="noopener"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="https://instagram.com" target="_blank" rel="noopener" aria-label="Instagram"><i class="fa fa-instagram"></i></a></li>
+                        <li><a href="https://linkedin.com" target="_blank" rel="noopener" aria-label="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+                        <li><a href="https://facebook.com" target="_blank" rel="noopener" aria-label="Facebook"><i class="fa fa-facebook"></i></a></li>
    
                     </ul>
                 </div>
