@@ -229,25 +229,25 @@
 			<h1 class="item-text-heading">Our Projects</h1>
                 <div class="owl-carousel owl-theme">
                     <div class="item project-item">
-                            <i><img src="assets/project-images/project12.PNG" alt="" width = "500" height="500"></i>
+                            <i><img src="assets/project-images/project12.PNG" alt="" width = "300" height="200"></i>
                         <h5 class="project-title">Company Profile</h5>
                         <p>Here our Company profile website build without modern javascript framework like Vue.js or React.js, but we deliver the best web surfing experience </p>
                         <a href="/" class="main-button">Discover More</a>
                     </div>
                     <div class="item project-item">
-                            <i><img src="assets/project-images/project12.PNG" alt="" width = "500" height="500"></i>
+                            <i><img src="assets/project-images/project12.PNG" alt="" width = "300" height="200"></i>
                         <h5 class="project-title">Company Profile</h5>
                         <p>Here our Company profile website build without modern javascript framework like Vue.js or React.js, but we deliver the best web surfing experience </p>
                         <a href="/" class="main-button">Discover More</a>
                     </div>
                     <div class="item project-item">
-                            <i><img src="assets/project-images/project12.PNG" alt="" width = "500" height="500"></i>
+                            <i><img src="assets/project-images/project12.PNG" alt="" width = "300" height="200"></i>
                         <h5 class="project-title">Company Profile</h5>
                         <p>Here our Company profile website build without modern javascript framework like Vue.js or React.js, but we deliver the best web surfing experience </p>
                         <a href="/" class="main-button">Discover More</a>
                     </div>
                     <div class="item project-item">
-                            <i><img src="assets/project-images/project12.PNG" alt="" width = "500" height="500"></i>
+                            <i><img src="assets/project-images/project12.PNG" alt="" width = "300" height="200"></i>
                         <h5 class="project-title">Company Profile</h5>
                         <p>Here our Company profile website build without modern javascript framework like Vue.js or React.js, but we deliver the best web surfing experience </p>
                         <a href="/" class="main-button">Discover More</a>
