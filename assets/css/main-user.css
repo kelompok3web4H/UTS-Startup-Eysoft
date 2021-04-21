@@ -1162,36 +1162,9 @@ Projects
   }
 }
 
-.project-item:hover .icon,
-.project-item:hover a.main-button {
-  background-color: #0088e8;
-}
-
-.project-item .icon {
-  text-align: center;
-  -webkit-transition: all 0.3s ease 0s;
-  -moz-transition: all 0.3s ease 0s;
-  -o-transition: all 0.3s ease 0s;
-  transition: all 0.3s ease 0s;
-  width: 100px;
-  height: 100px;
-  line-height: 100px;
-  margin: auto;
-  position: relative;
-  margin-bottom: 30px;
-  background: #00b4c6;
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  border-radius: 50%;
-  position: relative;
-}
-
-.project-item .icon img {
-  max-width: 50px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+.project-item img{
+  height: auto;
+  width: 100%;
 }
 
 .project-item .project-title {
