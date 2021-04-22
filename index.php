@@ -184,7 +184,7 @@
                         </p>
                     <ul>
                         <li>
-                            <img src="assets/images/about-icon-01.png" alt="">
+                            <img src="assets/images/about-icon-01.png" alt="icon1" width="60" height="60">
                             <div class="text">
                                 <h6>Track Record</h6>
                                 <p>We have handled small - large scale projects and have implemented solutions for 
@@ -194,7 +194,7 @@
                             </div>
                         </li>
                         <li>
-                            <img src="assets/images/about-icon-02.png" alt="">
+                            <img src="assets/images/about-icon-02.png" alt="icon2" width="60" height="60">
                             <div class="text">
                                 <h6>Competitive Pricing</h6>
                                 <p>We render services to our clients at a very competitive price and depending on the type of client 
@@ -204,7 +204,7 @@
                             </div>
                         </li>
                         <li>
-                            <img src="assets/images/about-icon-03.png" alt="">
+                            <img src="assets/images/about-icon-03.png" alt="icon2" width="60" height="60">
                             <div class="text">
                                 <h6>Ccommitment To Quality</h6>
                                 <p>
