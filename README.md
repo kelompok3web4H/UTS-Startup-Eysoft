@@ -1,2 +1,2 @@
-#Eysoft Company profile frontend user only <br>
-designed by : Aris Muhandisin :c
+#Eysoft Company profile frontend user + admin <br>
+Maintainer Kelompok 3 P.Web 4H
