@@ -379,7 +379,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-7 col-md-12 col-sm-12">
-                    <p class="copyright">Copyright &copy; 2077
+                    <p class="copyright">Copyright &copy; 2021 
                 
                 . Easy Software; <a rel="nofollow" href="/" aria-label="Eysoft"></a></p>
                 </div>
@@ -397,9 +397,10 @@
 
 
     <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
     <script
-    src="https://code.jquery.com/jquery-2.2.4.min.js"
-    integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+    src="https://code.jquery.com/jquery-migrate-3.3.2.min.js"
+    integrity="sha256-Ap4KLoCf1rXb52q+i3p0k2vjBsmownyBTE1EqlRiMwA="
     crossorigin="anonymous"></script>
     <!-- Bootstrap -->
     <script src="assets/js/popper.js"></script>
